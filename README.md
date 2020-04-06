@@ -5,7 +5,7 @@ Use the Discord server, email, private messages on Canvas, or any other medium y
 
 Knit your lab and push it to GitHub.
 
-Make sure you also fill out the Check-In Activity quiz on Canvas.
+Make sure you also complete the Check-In Activity assignment on Canvas.
 
 
 
